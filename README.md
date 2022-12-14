@@ -2,7 +2,7 @@
 
 <p>Jogo da memória aprimorado durante o projeto I de programação para internet.</p>
 
-### Tecnologias
+### :hammer_and_wrench: Tecnologias
 
 - HTML
 - CSS
