@@ -8,3 +8,7 @@
 - CSS
 - JAVASCRIPT
 - Jquery
+
+<div>
+    <img src="./imgs/telajogo.png" >
+</div>
